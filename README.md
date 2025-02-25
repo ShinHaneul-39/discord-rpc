@@ -1,4 +1,3 @@
-```markdown
 # Discord RPC Manager
 
 ## 소개
@@ -210,4 +209,3 @@ node index.js
 
 ## 연락처
 문의 사항이나 건의 사항이 있으시면 [helloworld10042@naver.com](mailto:helloworld10042@naver.com)으로 연락해 주세요.
-```
