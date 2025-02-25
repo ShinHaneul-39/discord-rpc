@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "discord-rpc": "./index.js"
+  },
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8"
+  },
+  "pkg": {
+    "scripts": [
+      "*.js"
+    ],
+    "targets": [
+      "node20-win-x64"
+    ]
+  }
+}
