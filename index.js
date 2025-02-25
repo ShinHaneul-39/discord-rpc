@@ -96,7 +96,7 @@ class RPCManager {
         this.defaultRPCState = {
             details: '기본 설명',
             startTimestamp: new Date().setHours(0, 0, 0, 0),
-            buttons: [{ label: '기본 버튼 (리포지토리 보기)', url: 'https://github.com/' }],
+            buttons: [{ label: '기본 버튼 (리포지토리 보기)', url: 'https://github.com/ShinHaneul-39/discord-rpc' }],
             state: '기본 상태',
             largeImageKey: '',
             largeImageText: '',
